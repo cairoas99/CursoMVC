@@ -43,10 +43,15 @@
   <ItemGroup>
     <Compile Include="DataBase\Conexao.cs" />
     <Compile Include="DataBase\Execucao.cs" />
+    <Compile Include="DataBase\SQLExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ProdutoRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Repositories\" />
+    <ProjectReference Include="..\Teste1.Domain\Teste1.Domain.csproj">
+      <Project>{FF0C7209-D2D4-427B-9CED-93BCF843DEF2}</Project>
+      <Name>Teste1.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
