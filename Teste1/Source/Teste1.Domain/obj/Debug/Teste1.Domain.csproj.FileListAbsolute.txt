@@ -1,0 +1,6 @@
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Domain\bin\Debug\Teste1.Domain.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Domain\bin\Debug\Teste1.Domain.pdb
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Domain\obj\Debug\Teste1.Domain.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Domain\obj\Debug\Teste1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Domain\obj\Debug\Teste1.Domain.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Domain\obj\Debug\Teste1.Domain.pdb
