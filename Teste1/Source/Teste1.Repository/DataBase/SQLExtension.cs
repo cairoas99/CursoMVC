@@ -36,7 +36,7 @@ namespace Teste1.Repository.DataBase
         public static int? ReadAsIntlNull(this SqlDataReader r, string campo)
         {
             var ordinal = r.GetOrdinal(campo);
-            return r.IsDBNull(ordinal) ? (int?)null : r.geti(r.GetOrdinal(campo));
+            return r.IsDBNull(ordinal) ? (int?)null : r.GetInt32(r.GetOrdinal(campo));
         }
 
         public static DateTime ReadAsDateTime(this SqlDataReader r, string campo)

@@ -48,7 +48,7 @@ CREATE PROCEDURE [dbo].[SP_SelDadosProduto]
 		Data..........: 04/01/2017
 		Objetivo......: Seleciona os dados de um produto.
 
-		Exemplo....... EXEC [dbo].[SP_SelDadosProduto] 1
+		Exemplo....... EXEC [dbo].[SP_SelDadosProduto] 2
 
 	*/
 
@@ -87,7 +87,7 @@ CREATE PROCEDURE [dbo].[SP_InsProduto]
 		Retornos......: 0 - Processamento OK!
 						1 - Erro ao inserir o produto.
 
-		Exemplo....... EXEC [dbo].[SP_InsProduto] 'Arroz', 7.00, 100
+		Exemplo....... EXEC [dbo].[SP_InsProduto] 'Macarrão', 3.00, 320
 
 	*/
 
@@ -170,7 +170,7 @@ CREATE PROCEDURE [dbo].[SP_DelProduto]
 						1 - Exclusão não permitida, o produto esta vinculada a uma venda.
 						2 - Erro ao excluir o produto.
 
-		Exemplo....... EXEC [dbo].[SP_DelProduto] 1
+		Exemplo....... EXEC [dbo].[SP_DelProduto] 2
 
 	*/
 

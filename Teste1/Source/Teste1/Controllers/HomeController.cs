@@ -12,10 +12,5 @@ namespace Teste1.Controllers
         {
             return View();
         }
-
-        public ActionResult Teste()
-        {
-            return Teste();
-        }
     }
 }
