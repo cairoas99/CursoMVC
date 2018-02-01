@@ -1,0 +1,8 @@
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\Teste1.Application.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\Teste1.Application.pdb
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.pdb

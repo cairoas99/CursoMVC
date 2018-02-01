@@ -96,3 +96,5 @@ C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1\obj\Debug\Teste1.csprojResolveAs
 C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1\obj\Debug\Teste1.csproj.CoreCompileInputs.cache
 C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1\obj\Debug\Teste1.dll
 C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1\obj\Debug\Teste1.pdb
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1\bin\Teste1.Application.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1\bin\Teste1.Application.pdb

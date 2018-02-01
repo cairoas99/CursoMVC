@@ -10,7 +10,7 @@ namespace Teste1.Api.Controllers
     {
         private readonly ProdutoRepository _produtoRepository = new ProdutoRepository();
 
-        [HttpGet,Route("listaProdutos")]
+        
         public IHttpActionResult GetProdutos()
         {
             try
