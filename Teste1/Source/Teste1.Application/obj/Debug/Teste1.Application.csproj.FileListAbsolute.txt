@@ -6,3 +6,12 @@ C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.App
 C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.csproj.CoreCompileInputs.cache
 C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.dll
 C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.pdb
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\obj\Debug\Teste1.Application.csproj.App.config
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\Teste1.Application.dll.config
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\cairo\Desktop\MVC\Teste1\Source\Teste1.Application\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll

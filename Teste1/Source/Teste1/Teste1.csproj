@@ -161,7 +161,13 @@
     <Content Include="Lib\imagens\smnicon.svg" />
     <Content Include="Lib\imagens\smnicon.png" />
     <Content Include="Lib\imagens\smnwallpaper.png" />
+    <Content Include="Lib\scripts\jquery.mask.js" />
     <Content Include="Lib\scripts\materialize.min.js" />
+    <None Include="Scripts\jquery-1.8.0.intellisense.js" />
+    <Content Include="Scripts\jquery-1.8.0.js" />
+    <Content Include="Scripts\jquery-1.8.0.min.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
@@ -183,20 +189,21 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Lib\fontes\roboto\Roboto-Bold.woff" />
-    <Content Include="Lib\fontes\roboto\Roboto-Bold.woff2" />
-    <Content Include="Lib\fontes\roboto\Roboto-Light.woff" />
-    <Content Include="Lib\fontes\roboto\Roboto-Light.woff2" />
-    <Content Include="Lib\fontes\roboto\Roboto-Medium.woff" />
-    <Content Include="Lib\fontes\roboto\Roboto-Medium.woff2" />
-    <Content Include="Lib\fontes\roboto\Roboto-Regular.woff" />
-    <Content Include="Lib\fontes\roboto\Roboto-Regular.woff2" />
-    <Content Include="Lib\fontes\roboto\Roboto-Thin.woff" />
-    <Content Include="Lib\fontes\roboto\Roboto-Thin.woff2" />
+    <Content Include="Lib\fonts\roboto\Roboto-Bold.woff" />
+    <Content Include="Lib\fonts\roboto\Roboto-Bold.woff2" />
+    <Content Include="Lib\fonts\roboto\Roboto-Light.woff" />
+    <Content Include="Lib\fonts\roboto\Roboto-Light.woff2" />
+    <Content Include="Lib\fonts\roboto\Roboto-Medium.woff" />
+    <Content Include="Lib\fonts\roboto\Roboto-Medium.woff2" />
+    <Content Include="Lib\fonts\roboto\Roboto-Regular.woff" />
+    <Content Include="Lib\fonts\roboto\Roboto-Regular.woff2" />
+    <Content Include="Lib\fonts\roboto\Roboto-Thin.woff" />
+    <Content Include="Lib\fonts\roboto\Roboto-Thin.woff2" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
     <Content Include="Views\Produto\GridProdutos.cshtml" />
+    <Content Include="Views\Produto\FormularioCadastro.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Teste1.Application\Teste1.Application.csproj">

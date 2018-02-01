@@ -1,6 +1,6 @@
 ﻿<link href="~/Lib/Css/Home.css" rel="stylesheet" type="text/css">
 
-
+@Html.Partial("../Produto/FormularioCadastro")
 <!--grid-->
 <div class="container">
     <div class="row ajuste">
@@ -43,7 +43,7 @@
     //Trazendo a lista de produtos
     $.get('@Url.Action("ListarProdutos", "Produto")')
         .done(function (data) {
-            $("#gridProdutos tbody").html(data);
+            $("#tableProdutos").html(data);
         })
         .fail(function (xhr) {
             Materialize.toast(xhr.responseText, 5000);
